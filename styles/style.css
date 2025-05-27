@@ -42,7 +42,6 @@
   padding-bottom: 7px;
 }
 
-
 .header__address {
   min-width: 240px;
   display: flex;
@@ -157,8 +156,6 @@
   text-transform: uppercase;
   cursor: pointer;
 }
-
-
 
 .lots {
   display: flex;
@@ -293,15 +290,6 @@
 .about__text-decription {
   margin-bottom: 22px;
 }
-
-/*.about__text-decription-2 {
-    margin-top: 25px;
-    margin-left: 72px;
-    font-weight: 400;
-    font-Size: 20px;
-    line-height: 24px;
-    letter-spacing: 0%
-}*/
 
 .footer {
   display: grid;
